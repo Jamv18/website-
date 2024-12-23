@@ -5,3 +5,8 @@ and the p5.js VS Code extension.
 
 These p5.js "how to" instructions were used to install the p5.js extension on VS Code: https://p5js.org/tutorials/setting-up-your-environment/#vscode.
 
+#### Other optional courses that might be good to go though before
+
+- https://www.codecademy.com/learn/introduction-to-javascript
+- (not as important) https://www.codecademy.com/learn/learn-css
+- (not as important) https://www.codecademy.com/learn/learn-html
