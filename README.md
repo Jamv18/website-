@@ -1,7 +1,7 @@
 # website-
 new thing
 
-This is a play repository that holds various little experiments and toy projects.
+This repository holds various little experiments and toy projects.
 
 ## Direct website links:
 
@@ -20,6 +20,7 @@ This repository holds some code made with HTML/CSS/JavaScript code and some that
 - (not as important) https://www.codecademy.com/learn/learn-css
 - (not as important) https://www.codecademy.com/learn/learn-html
 - (basic, free GitHub and markdown language course) https://www.codecademy.com/learn/learn-github-introduction
+- (intermediate "Git" course in case you get stuck) https://www.w3schools.com/git/default.asp?remote=github
 
 #### p5.js tutorial
 
