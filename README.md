@@ -25,6 +25,9 @@ This repository holds some code made with HTML/CSS/JavaScript code and some that
 - Introduction to p5.js on "Coding Train" channel, which is by same guy that wrote the "nature of code" book: https://www.youtube.com/watch?v=yPWkPOfnGsw
 - Maybe easier to follow person, Patt Vira, who has bunch of p5.js videos: https://www.youtube.com/watch?v=x1NxkEjfNtI
 
+#### VS Code Editor introduction videos
+- Goes through basic functionality and different ways to use it: https://www.youtube.com/watch?v=EUJlVYggR1Y
+
 ## Instructions for playing with this locally on your computer
 
 #### Install VS Code
@@ -44,3 +47,15 @@ This repository holds some code made with HTML/CSS/JavaScript code and some that
 3. You should see `open with live server` option, click that. 
 4. You should then see a browser opened up in another tab or window and your website displayed in that window.
 5. If the browser opens but you don't see anything there, right click on the browser window and select "inspector" or similar to bring up a debugging sub-window. Click on "console" to see if there are any error messages.
+
+#### How to sync your code from GitHub to local computer
+
+
+
+#### how to sync changes to code you made on your local computer to GitHub repository
+1. Save any changes in the file you are working in. This can be done in two ways. 
+  - (A) hit "command" button next to space bar and "s".
+  - (B) Select "file" and then "save" from the menu bar in VS Code.
+2. Click on the icon in left menu bar of VS Code that looks like three circles connected by forked lines.
+3. In the window that pops up, write a message that describes the changes you've made and why you made them since your last "commit" of code.
+3. In the window that pops up, hit "commit" once you have added your message.
