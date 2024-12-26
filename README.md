@@ -22,7 +22,7 @@ This repository holds some code made with HTML/CSS/JavaScript code and some that
 
 #### p5.js tutorial
 
-- Introduction to p5.js on "Coding Train" channel, which is by same guy that wrote the "natural of code" book: https://www.youtube.com/watch?v=yPWkPOfnGsw
+- Introduction to p5.js on "Coding Train" channel, which is by same guy that wrote the "nature of code" book: https://www.youtube.com/watch?v=yPWkPOfnGsw
 - Maybe easier to follow person, Patt Vira, who has bunch of p5.js videos: https://www.youtube.com/watch?v=x1NxkEjfNtI
 
 ## Instructions for playing with this locally on your computer
