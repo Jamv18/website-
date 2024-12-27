@@ -6,7 +6,7 @@ This repository holds various little experiments and toy projects.
 ## Direct website links:
 
 - Basic starter page: https://jamv18.github.io/website-/
-- Pong: https://jamv18.github.io/website-/jackson-experiment <=== THIS REQUIRES MERGING [THIS PR](https://github.com/Jamv18/website-/pull/2)
+- Pong: https://jamv18.github.io/website-/jackson-experiment
 
 -----------------
 
