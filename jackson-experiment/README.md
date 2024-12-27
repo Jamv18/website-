@@ -1,0 +1,1 @@
+The jackson-experiment folder holds content that makes a basic pong game using the "little guy" image.
