@@ -14,8 +14,8 @@ let laughter;
 
 let x = 100;
 let y = 100;
-let yspeed = 80.5;
-let xspeed = 15.5;
+let yspeed = 25.5;
+let xspeed = 25.5;
 
 redValue = 0;
 redValueGoingUp = true;
