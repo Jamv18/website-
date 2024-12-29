@@ -55,7 +55,7 @@ function draw() {
   // Switching the order of square and rect will make the square appear on
   // top of the rectangle
   // x, y, width, height
-
+  noFill(); // Set fill to transparent
   leftPad = rect(0, leftPad_y , pad_width, pad_height);
   leftPad_pickle = image(pickle, 0, leftPad_y , pad_width, pad_height);
   rightPad = rect(width-pad_width, rightPad_y  , pad_width, pad_height);
